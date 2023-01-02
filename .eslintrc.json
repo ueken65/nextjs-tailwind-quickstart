@@ -51,7 +51,7 @@
       {
         "unusedExports": true,
         "ignoreExports": [
-          "pages/**"
+          "src/pages/**"
         ]
       }
     ]
